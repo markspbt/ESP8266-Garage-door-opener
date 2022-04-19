@@ -3,6 +3,9 @@
   Rui Santos
   Complete project details at http://randomnerdtutorials.com
   Controlling two garage doors VIA IAoT
+  
+  Project file:
+  https://www.codemacs.com/iaot/applications/esp8266-garage-door-opener.4002131.htm
 *********/
 
 #include <ESP8266WiFi.h>
